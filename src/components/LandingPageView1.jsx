@@ -461,7 +461,7 @@ const LandingPageView1 = () => {
                           </div>
                           <button
                             
-                            className="mt-4 w-full px-4 py-2 text-white bg-dark hover:bg-light  rounded-lg"
+                            className="mt-4 w-full px-4 py-2 text-white bg-dark hover:bg-light  rounded-full"
                           >
                             View Bundle
                           </button>
